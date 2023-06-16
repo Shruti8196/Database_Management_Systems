@@ -3,7 +3,6 @@
 #### Description
 Function and design of modern storage systems, including cloud; data management techniques; data modeling; network attached storage, clusters and data centers; relational databases; the map-reduce paradigm.
 
-
 #### Homeworks
 These following code are my homework source code.
 
@@ -22,4 +21,3 @@ These following code are my homework source code.
 |Lab2|[HDFS Namenode Images](https://github.com/Shruti8196/Database_Management_Systems/blob/master/Lab2)|`Exploring HDFS` `Understanding File System Images`|
 |Lab3|[MongoDB](https://github.com/Shruti8196/Database_Management_Systems/blob/master/Lab3)|`Setting up MongoDB on EC2` `Writing queries`|
 |Lab4|[DynamoDB](https://github.com/Shruti8196/Database_Management_Systems/blob/master/Lab4)|`Exploring DynamoDB`|
-
