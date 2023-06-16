@@ -1,0 +1,40 @@
+{
+  "StudentID": {
+    "N": "1"
+  },
+  "Contact": {
+    "L": [
+      {
+        "S": "+1 2132454532"
+      },
+      {
+        "N": "2345678905"
+      }
+    ]
+  },
+  "CourseID": {
+    "NS": [
+      "552",
+      "551"
+    ]
+  },
+  "CourseName": {
+    "SS": [
+      "Foundations of Data Management",
+      "Machine Learning for Data Science"
+    ]
+  },
+  "Scores": {
+    "M": {
+      "551": {
+        "N": "99"
+      },
+      "552": {
+        "N": "95"
+      }
+    }
+  },
+  "StudentName": {
+    "S": "Shruti Pansuriya"
+  }
+}
